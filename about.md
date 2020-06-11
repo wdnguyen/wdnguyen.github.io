@@ -4,7 +4,14 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/Nguyen_Portrait_2019.png" caption="Me at The Knob in Falmouth, MA." width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+Hi! I am currently a PhD student at The University of Texas at Austin in the Jackson School of Geosciences (2020-Present). 
+I received my Bachelors in Geology with Honors at the University of Maryland, College Park in 2020. 
 
+My research interests are in groundwater-surface water interactions, nutrient cycling, and contaminant fate and transport.
+I'll be working on modeling the flow and transport of iron-arsenic deposits along the banks of the Meghna River in Bangladesh.
+This work will be supervised by [M. Bayani Cardenas](http://www.jsg.utexas.edu/cardenas/) and is apart of a collaborative research
+effort between my institution, Texas A&M University, and UT San Antonio. See the award abstract [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1852652&HistoricalAwards=false).
+
+In my free time, I'm both an amateur artist and baker. I also dabble in video games! <img src="/images/gengar-sprite.gif" width= "6%" class="align-left" alt="">
