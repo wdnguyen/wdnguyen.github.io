@@ -9,4 +9,4 @@ To breath some life into this page, I'm going to add some random doodles. I hope
 
 ### June 12, 2020
 ---
-<img src="/images/dood_20200612.gif" width= "6%" class="img-responsive" alt="">
+<img src="/images/dood_20200612.gif" width= "100%" class="center" alt="">
