@@ -1,5 +1,8 @@
 - title: "About"
   href: "/about/"
+  
+- title: "Research"
+  href: "/research/"
 
 - title: "Blog"
   href: "/blog/"
