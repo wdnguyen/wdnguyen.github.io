@@ -7,5 +7,5 @@ permalink: /research/
 Projects:
 
 - [Bangladesh](/research/Bangladesh)
-- [Woods Hole](/reserach/WH)
+- [Woods Hole](/research/WH)
 - [Costa Rica](/research/CR)
