@@ -1,8 +1,9 @@
----
+<!--- ---
 layout: page
 title: Blog
 permalink: /blog/
 ---
+
 
 Check out my blog posts below!
 
@@ -19,3 +20,5 @@ Check out my blog posts below!
   </li>
 {% endfor %}
 </ul>
+
+--->
