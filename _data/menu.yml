@@ -12,8 +12,8 @@
       subhref: "/research/CR/"
         
 
-- title: "Blog"
-  href: "/blog/"
+# - title: "Blog"
+#  href: "/blog/"
 
 - title: "CV"
   href: "/cv/"
