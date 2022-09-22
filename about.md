@@ -14,4 +14,4 @@ I'll be working on modeling the flow and transport of iron-arsenic deposits alon
 This work is supervised by [M. Bayani Cardenas](http://www.jsg.utexas.edu/cardenas/) and apart of a collaborative research
 effort between my institution, Texas A&M University (PI: [Peter Knappett](https://geogeo.tamu.edu/people/profiles/faculty/knappettpeter.html)), and UT San Antonio (PI: [Saugata Datta](https://www.utsa.edu/sciences/labs/SaugataDatta/)). See the award abstract [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1852652&HistoricalAwards=false).
 
-In my free time, I'm both an amateur artist and baker. I also dabble in video games! <img src="/images/gengar-sprite.gif" width= "6%" class="align-left" alt="">
+In my free time, I'm both an amateur artist, baker, and video gamer! <img src="/images/gengar-sprite.gif" width= "6%" class="align-left" alt="">
