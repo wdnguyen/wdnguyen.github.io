@@ -6,7 +6,7 @@ permalink: /about/
 
 {% include image.html url="/images/Nguyen_Portrait_2019.png" caption="Me at The Knob in Falmouth, MA in July 2019." width=300 align="right" %}
 
-Hi! I am currently a 3rd year PhD student at The University of Texas at Austin in the Jackson School of Geosciences (2020-Present). 
+Hi! I am currently a PhD student at The University of Texas at Austin in the Jackson School of Geosciences (2020-Present). 
 I received my Bachelors in Geology with Honors at the University of Maryland, College Park in 2020. 
 
 My research interests are in groundwater-surface water interactions, nutrient cycling, and contaminant fate and transport.
