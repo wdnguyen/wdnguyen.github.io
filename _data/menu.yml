@@ -18,8 +18,8 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Random Doodles"
-      subhref: "/miscellany/dood-1/"
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
+#    - subtitle: "Random Doodles"
+#      subhref: "/miscellany/dood-1/"
