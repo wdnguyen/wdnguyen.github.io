@@ -18,7 +18,11 @@
 - title: "CV"
   href: "/cv/"
 
-#- title: "Miscellany"
+- title: "Miscellany"
+  href: "/miscellany/"
+  subcategories:
+    - subtitle: "Testing"
+      subhref: "/miscellany/testing/"
 #  href: "/miscellany/"
 #  subcategories:
 #    - subtitle: "Random Doodles"
