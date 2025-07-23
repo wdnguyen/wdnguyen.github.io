@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Costa Rica
+title: Tropical hydrology
 permalink: /research/CR/
 ---
 
-Coming soon!
+# Isotopic and geochemical tracers of water sources in Costa Rican montane forest headwater streams
+
+More coming soon!

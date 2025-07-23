@@ -6,6 +6,8 @@ permalink: /research/
 
 Projects:
 
-- [Bangladesh](/research/Bangladesh)
-- [Woods Hole](/research/WH)
-- [Costa Rica](/research/CR)
+- [Redox zonation and contaminant fate in tidal systems](/research/Bangladesh)
+- [Tracing coastal groundwater dynamics with radionuclides](/research/WH)
+- [Tropical hydrology](/research/CR)
+- [Freshwater salinization syndrome](/research/MD)
+- [Field campaigns and side projects](/research/Side)

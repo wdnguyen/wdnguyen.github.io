@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Bangladesh
+title: Redox zonation and contaminant fate in tidal systems
 permalink: /research/Bangladesh/
 ---
 
-Coming soon!
+# Numerical modeling of reactive transport in tidally influenced riverbanks of the Meghna River, Bangladesh
+
+More coming soon!

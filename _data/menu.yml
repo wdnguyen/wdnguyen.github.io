@@ -4,25 +4,29 @@
 - title: "Research"
   href: "/research/"
   subcategories:
-    - subtitle: "Bangladesh"
+    - subtitle: "Redox zonation and contaminant fate in tidal systems"
       subhref: "/research/Bangladesh/"
-    - subtitle: "Woods Hole"
+    - subtitle: "Tracing coastal groundwater dynamics with radionuclides"
       subhref: "/research/WH/"
-    - subtitle: "Costa Rica"
+    - subtitle: "Tropical hydrology"
       subhref: "/research/CR/"
+    - subtitle: "Freshwater salinization syndrome"
+      subhref: "/research/MD/"
+    - subtitle: "Field campaigns and side projects"
+      subhref: "/research/Side/"
         
 
 # - title: "Blog"
 #  href: "/blog/"
 
-- title: "CV"
+- title: "Resume"
   href: "/cv/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Testing"
-      subhref: "/miscellany/testing/"
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
+#    - subtitle: "Testing"
+#      subhref: "/miscellany/testing/"
 #  href: "/miscellany/"
 #  subcategories:
 #    - subtitle: "Random Doodles"
